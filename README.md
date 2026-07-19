@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-croot && git clone https://github.com/PixelOS-Ext/android_private_keys vendor/private/keys
+croot && git clone https://github.com/PixelOS-Ext/android_vendor_private_keys vendor/private/keys
 ```
 
 ```and add in device.mk
